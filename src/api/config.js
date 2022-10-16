@@ -1,1 +1,1 @@
-export const API_URL = 'https://gutta-kalender.herokuapp.com/'
+export const API_URL = 'https://gutta-kalender.herokuapp.com'
